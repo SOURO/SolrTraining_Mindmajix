@@ -1,0 +1,1 @@
+# SolrTraining_Mindmajix
