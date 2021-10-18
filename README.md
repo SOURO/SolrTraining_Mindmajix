@@ -1,6 +1,6 @@
 # Apache Solr Training By Souro | Mindmajix Technologies
 
-## Course Content Structure
+## Course Content Structure:
 https://docs.google.com/spreadsheets/d/16JaXagpjAGOwr0JlR2ARhaKsuCArxOG6koOGyFpkDKE/edit?usp=sharing
 
 ## Demo Class: 
